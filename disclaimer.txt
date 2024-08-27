@@ -1,0 +1,5 @@
+Please note: This tutorial is intended for educational purposes only. 
+  The techniques demonstrated are meant to help you understand how to improve cybersecurity practices, not to exploit vulnerabilities.
+  Please ensure you have proper authorization before conducting any reconnaissance or scanning activities on domains that you do not own.
+  Use this knowledge responsibly.
+
